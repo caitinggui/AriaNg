@@ -3,6 +3,12 @@ A copy from [mayswind/AriaNg](https://github.com/mayswind/AriaNg) [aria-ng-0.4.0
 
 You can deploy it with Ngix, and it is pure HTML, CSS, and JS, no need for other dependencies.
 
+The screenshot **changes** as follows:
+#### Desktop
+![AriaNg](https://cblog.xyz/media/2018/04/desktop.png)
+#### Mobile Device
+![AriaNg](https://cblog.xyz/media/2018/04/mobile_dUB8pwD.png)
+
 [![License](https://img.shields.io/github/license/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
 [![Lastest Build](https://img.shields.io/circleci/project/mayswind/AriaNg.svg?style=flat)](https://circleci.com/gh/mayswind/AriaNg/tree/master)
 [![Lastest Release](https://img.shields.io/github/release/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/releases)
